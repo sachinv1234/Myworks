@@ -2,6 +2,7 @@
   "name": "monsters-roodex",
   "version": "0.1.0",
   "private": true,
+  "home page": "https://sachinv1234.github.io/Myworks",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -9,8 +10,8 @@
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "home page": "https://github.com/sachinv1234/Myworks.git"
+    "react-scripts": "3.4.1"
+    
   },
   "scripts": {
     "start": "react-scripts start",
